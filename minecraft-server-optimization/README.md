@@ -1,7 +1,7 @@
 ## Choose your language
 
-- [English](https://github.com/cubelius/minecraft-server-optimization/blob/main/Eng.md)
-- [Русский](https://github.com/cubelius/minecraft-server-optimization/blob/main/Ru.md)
+- [English](./Eng.md)
+- [Русский](./Ru.md)
 
 ## Warning
 
