@@ -9,6 +9,6 @@ setInterval(e => {
     if (isNaN(pluginCount) || isNaN(playerCount)) {
         return
     }
-    memory.textContent = Math.ceil((playerCount + pluginCount / 2.2) / 6.875)
-    cpu.textContent = Math.ceil((playerCount + pluginCount / 2.2) / 13.75)
+    memory.textContent = Math.ceil((playerCount + pluginCount / 2.2) / 8.875)
+    cpu.textContent = Math.ceil((playerCount + pluginCount / 2.2) / 14.75)
 }, 500)
